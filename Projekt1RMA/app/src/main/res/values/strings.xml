@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projekt1RMA</string>
+    <string name="nazad">Nazad</string>
+    <string name="localName">Local name</string>
+    <string name="date">Date</string>
+    <string name="REST_API">https://date.nager.at/api</string>
+</resources>
